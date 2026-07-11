@@ -1,0 +1,33 @@
+{
+  "name": "寶寶語言發展紀錄",
+  "short_name": "Ee-ya Collection",
+  "description": "Baby's Language Development Tracker",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FFF8F3",
+  "theme_color": "#F4845F",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'><rect fill='%23F4845F' width='192' height='192'/><text x='96' y='130' font-size='100' text-anchor='middle' fill='white' font-family='system-ui'>🌟</text></svg>",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'><rect fill='%23F4845F' width='192' height='192'/><text x='96' y='130' font-size='100' text-anchor='middle' fill='white' font-family='system-ui'>🌟</text></svg>",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ],
+  "categories": ["education", "lifestyle"],
+  "screenshots": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 540 720'><rect fill='%23FFF8F3' width='540' height='720'/><text x='270' y='360' font-size='80' text-anchor='middle' fill='%23F4845F' font-family='system-ui'>寶寶語言發展紀錄</text></svg>",
+      "sizes": "540x720",
+      "type": "image/svg+xml",
+      "form_factor": "narrow"
+    }
+  ]
+}
